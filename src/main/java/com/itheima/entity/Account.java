@@ -4,7 +4,8 @@ public class Account {
     private Integer accountId;
     private Integer uid;
     private Double money;
-
+    private String name;
+    
     public Integer getAccountId() {
         return accountId;
     }
